@@ -658,7 +658,7 @@ h1.arrow span {
 }
 
 .color-bg a {
-  color: #ffe800;
+  color: #e04343;
 }
 .color-bg h6,
 .color-bg p {
@@ -745,6 +745,23 @@ i.respons {
   border: 1px solid #cccccc;
   color: #cccccc;
 }
+
+.ab{
+  color: #ffe800;
+}
+
+.edu{
+  color: #8c8c8c;
+}
+
+.wj{
+  color: #ffe800;
+}
+
+.mwj{
+  color: #353535;
+}
+
 /* ==========================================================================iPhone Section========================================================================== */
 .iphone {
   width: 50%;
@@ -844,7 +861,7 @@ img.grayscale:hover {
 }
 
 .card {
-  background-color: #a1a9b0;
+  background-color: #353535;
   border-radius: 20px;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0, 18);
 }
@@ -883,7 +900,7 @@ img {
 }
 
 .details > p {
-  color: #fafafa;
+  color: #ffe800;
   font-size: 15px;
   line-height: 30px;
   font-weight: 400;
@@ -892,7 +909,7 @@ img {
 .btn1 {
   text-decoration: none;
   text-transform: uppercase;
-  background-color: #fafafa;
+  background-color: #ffe800;
   color: #e04343;
   padding: 10px 10px;
   display: inline-block;
@@ -911,7 +928,7 @@ img {
 .btn2 {
   text-decoration: none;
   text-transform: uppercase;
-  background-color: #fafafa;
+  background-color: #ffe800;
   color: #e04343;
   padding: 10px 10px;
   display: inline-block;
@@ -931,7 +948,7 @@ img {
 .github {
   text-decoration: none;
   text-transform: uppercase;
-  background-color: #fafafa;
+  background-color: #ffe800;
   color: #e04343;
   padding: 10px 10px;
   display: inline-block;
